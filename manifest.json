@@ -1,0 +1,22 @@
+{
+    "name": "PWA CRM Virvita",
+    "short_name": "CRM",
+    "start_url": "/pwa-crm-virvita/index.html",
+    "scope": "/pwa-crm-virvita/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#332f5d",
+    "icons": [
+      {
+        "src": "icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
