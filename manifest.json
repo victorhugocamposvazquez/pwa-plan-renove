@@ -1,8 +1,8 @@
 {
     "name": "PWA PLAN RENOVE Virvita",
     "short_name": "PLAN RENOVE",
-    "start_url": "/pwa-link-studio/index.html",
-    "scope": "/pwa-link-studio/",
+    "start_url": "https://victorhugocamposvazquez.github.io/pwa-plan-renove",
+    "scope": "pwa-plan-renove",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#332f5d",
